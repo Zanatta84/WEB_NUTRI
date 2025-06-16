@@ -1,0 +1,3 @@
+[console_scripts]
+nutriapp = src.main:run_application
+
